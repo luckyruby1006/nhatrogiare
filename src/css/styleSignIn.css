@@ -1,0 +1,17 @@
+.signin__form{
+    background-image: url(../images/home-real-estate-106399.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+}
+.signin__form--input{
+    display: flex;
+    flex-direction: column  ;
+    justify-content: center;
+    height: 500px;
+
+}
+.signin__form--text,.signin__form--input--btn{
+    color: white;
+}
